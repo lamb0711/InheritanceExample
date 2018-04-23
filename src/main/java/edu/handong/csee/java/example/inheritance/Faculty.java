@@ -1,6 +1,6 @@
 package edu.handong.csee.java.example.inheritance;
 
-public class Faculty {
+public class Faculty extends Person{
 	int facultyNumber;
 	
     void reset(String newName, int newFacultyNumber) {
