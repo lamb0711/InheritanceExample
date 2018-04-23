@@ -1,6 +1,6 @@
 package edu.handong.csee.java.example.inheritance;
 
-public class Person {
+public class Person extends Faculty{
 	private String name;
 
 	public Person() {
